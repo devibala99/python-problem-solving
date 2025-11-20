@@ -1,8 +1,6 @@
 """
 Collection of methods to reverse string using different techniques.
 """
-text = "hello world"
-
 def reverse_using_loop(s: str) -> str:
     """Reverse a string manually using a for-loop."""
     reverse_str = ""
